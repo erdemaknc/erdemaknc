@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erdem</h1>
 <h3 align="center">A passionate DevOps from Turkey</h3>
 
-- 🔭 I’m currently working on **Softtech Software**
+- 🔭 I’m currently working on **Software Company**
 
 - 🌱 I’m currently learning **Groovy**
 
